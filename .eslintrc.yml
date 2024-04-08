@@ -10,7 +10,7 @@ overrides:
     env: { mocha: true }
   -
     files: [ 'lib/**' ]
-    parserOptions: { ecmaVersion: 2015 }
+    parserOptions: { ecmaVersion: 2015  }
 
 ignorePatterns:
   - demo/
